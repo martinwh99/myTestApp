@@ -9,6 +9,7 @@ export default function () {
 
             console.log("Client Startup Lang: ")
 
+            
             TAPi18n.setLanguage('en')
                   .done(function () {
                        console.log("Client Startup Lang: "+ TAPi18n.getLanguage())
@@ -19,8 +20,6 @@ export default function () {
                         console.log("ERROR --> Client Startup Lang: "+error.message)
                         
                   })
-                  
-            
             
       })
       
