@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8d01c0b-29c1-4569-af9d-64ab7019a8af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/de-CH:i18n.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/en:i18n.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/configs/context.js" afterPath="$PROJECT_DIR$/client/configs/context.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/modules/core/components/MainLayout.jsx" afterPath="$PROJECT_DIR$/client/modules/core/components/MainLayout.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/modules/core/configs/i18n_startup.js" afterPath="$PROJECT_DIR$/client/modules/core/configs/i18n_startup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/modules/logon/components/login.jsx" afterPath="$PROJECT_DIR$/client/modules/logon/components/login.jsx" />
     </list>
     <ignored path="olttestapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -188,8 +182,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="909" />
-    <option name="y" value="110" />
+    <option name="x" value="1046" />
+    <option name="y" value="52" />
     <option name="width" value="1402" />
     <option name="height" value="1225" />
   </component>
@@ -532,7 +526,7 @@
       <workItem from="1462869367836" duration="610000" />
       <workItem from="1462948223171" duration="631000" />
       <workItem from="1462954625255" duration="9750000" />
-      <workItem from="1462974214044" duration="15000" />
+      <workItem from="1462974214044" duration="128000" />
     </task>
     <task id="LOCAL-00001" summary="incl. react-dom">
       <created>1462280443493</created>
@@ -555,14 +549,21 @@
       <option name="project" value="LOCAL" />
       <updated>1462966754938</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="incl. react-dom">
+      <created>1462974235421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1462974235421</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27351000" />
+    <option name="totallyTimeSpent" value="27464000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="909" y="110" width="1402" height="1225" extended-state="0" />
+    <frame x="1046" y="52" width="1402" height="1225" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20057929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -775,6 +776,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -782,6 +786,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="27" column="112" selection-start-line="27" selection-start-column="112" selection-end-line="27" selection-end-column="112" />
+          <folding>
+            <element signature="e#45#71#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
