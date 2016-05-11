@@ -25,7 +25,7 @@ class login extends React.Component {
                   <MuiThemeProvider muiTheme={lightMuiTheme}>
                         <Paper className="FormInput" zDepth={3}>
                               
-                                                <TextField ref="user" hintText="User / Email" floatingLabelText="User"  autofocus/>
+                                                <TextField ref="user" hintText="User / Email" floatingLabelText={{_ "User"}}  autofocus/>
                                          
                                                 <TextField ref="password" hintText="password" floatingLabelText="Password" type="password" />
                                          
