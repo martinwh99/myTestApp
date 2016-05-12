@@ -5,6 +5,7 @@
 import {createApp} from 'mantra-core';
 import initContext from './configs/context';
 
+
 //modules
 import coreModule from './modules/core';
 import layoutModule from './modules/appLayout';
