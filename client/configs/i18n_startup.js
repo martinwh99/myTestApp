@@ -2,6 +2,7 @@
  * Created by mk on 11.05.16.
  */
 
+
 export default function () {
       
       Meteor.startup(function () {
